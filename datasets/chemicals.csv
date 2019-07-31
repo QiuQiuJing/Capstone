@@ -1,0 +1,833 @@
+feature,chemicals
+moisturising effect,Acetamide MEA
+moisturising effect,Agarose
+moisturising effect,Ammonium lactate
+moisturising effect,Arginine PCA
+moisturising effect,Betaine
+moisturising effect,Butylene glycol
+moisturising effect,Copper PCA
+moisturising effect,Corn glycerides
+moisturising effect,Diglycereth-7 Malate
+moisturising effect,Diglycerin
+moisturising effect,Dimethyl imidazolidinone
+moisturising effect,Erythritol
+moisturising effect,Gelatin
+moisturising effect,Glucose
+moisturising effect,Glucuronic acid
+moisturising effect,Glucuronolactone
+moisturising effect,Glutamic acid
+moisturising effect,Glycereth-12
+moisturising effect,Honey extract
+moisturising effect,Hylauronic acid
+moisturising effect,Hydroloyzed wheat starch
+moisturising effect,Hydroxyethyl sorbitol
+moisturising effect,Lactamide
+moisturising effect,Lactic acid
+moisturising effect,Maititol
+moisturising effect,Melibiose
+moisturising effect,Pantolactone
+moisturising effect,PCA
+moisturising effect,Polyglucuronic acid
+moisturising effect,Polyglycerylmethacrylate
+moisturising effect,Propylene glycerol
+moisturising effect,Saccharide hydrolysate
+moisturising effect,salt
+moisturising effect,Seasame amino acids
+moisturising effect,Sodium aspartate
+moisturising effect,Sodium lactate
+moisturising effect,Sodium malate
+moisturising effect,Cyclomethicone
+moisturising effect,Sodium polyaspartate
+moisturising effect,TEA-Iactate
+moisturising effect,Triglycereth-7 citrate
+moisturising effect,Xylose
+moisturising effect,Acetylated lanolin
+moisturising effect,Acetyl trihexyl citrate
+moisturising effect,Avocado sterols
+moisturising effect,Butyl myristate
+moisturising effect,C 14-15 alcohols
+moisturising effect,C 12-13 alkyl ethylhexanoate
+moisturising effect,Capryiyl glycol
+moisturising effect,Castor oil
+moisturising effect,Cetyl acetate
+moisturising effect,Cetyl oleate
+moisturising effect,C 14-16 glycol palmitate
+moisturising effect,C 12-20 isoparaffin
+moisturising effect,isopropyl myristate
+moisturising effect,Decyl oleate
+moisturising effect,Diethyihexyl adipate
+moisturising effect,Diethylhexyl malate
+moisturising effect,Diisodecyl adipate
+moisturising effect,Djisopropyl dilinoleate
+moisturising effect,Dimethicone copolyol
+moisturising effect,Dipropyl adipate
+moisturising effect,Ethylhexyl palmitate
+moisturising effect,Ethyl linoleate
+moisturising effect,Glyceryl dioleate
+moisturising effect,Glyceryl ricinoleate
+moisturising effect,Glyceryl stearates
+moisturising effect,Glycol palmitate
+moisturising effect,Glycol stearate
+moisturising effect,Hexyl laurate
+moisturising effect,Isocetyl alcohol
+moisturising effect,Isodecyl sterarate
+moisturising effect,Isohexyl palmitate
+moisturising effect,Isopropyl isostearate
+moisturising effect,Isopropyl palmitate
+moisturising effect,Isostearyl alcohol
+moisturising effect,lanolin
+moisturising effect,Methyl palmitate
+moisturising effect,Myristyl propionate
+moisturising effect,Octyl Octanoate
+moisturising effect,Octyl stearate
+moisturising effect,PEG-4 lanolate
+moisturising effect,PEG-5 tristearyl citrate
+moisturising effect,Polyglyceryl-6 oleate
+moisturising effect,Plyglycerol-2 triisosterate
+moisturising effect,PPG-20 cetyl ether
+moisturising effect,PPG-4 laureth-2
+moisturising effect,Propylene glycol linoleate
+moisturising effect,Squalene
+moisturising effect,Sucrose ojeate
+moisturising effect,Sunflower seed oil glycerides
+moisturising effect,Tall oil glycerides
+moisturising effect,Tridycyl stearate
+moisturising effect,Wheat germ glycerides
+moisturising effect,Acetylated castor oil
+moisturising effect,Acetylated lanolin alcohol
+moisturising effect,Behenyl isostearate
+moisturising effect,Beeswax
+moisturising effect,C12-18 acid triglyceride
+moisturising effect,C20-40 alcohols
+moisturising effect,C20-40 alkyl dimethicone
+moisturising effect,C16-36 alkyl stearate
+moisturising effect,C18-70 isoparaffin
+moisturising effect,C20-24 olefin
+moisturising effect,CIO-18 triglycerides
+moisturising effect,Candelilla
+moisturising effect,Canola oil
+moisturising effect,Capryiic/capric triglyceride
+moisturising effect,Carnau ba
+moisturising effect,Cetearyl
+moisturising effect,Cetyl ricinoleate
+moisturising effect,Cholesteryl oleate
+moisturising effect,Decyl myristate
+moisturising effect,Dimethicone
+moisturising effect,Distearyl ether
+moisturising effect,Glycol dioleate
+moisturising effect,Hexyldecyl isostearate
+moisturising effect,Hydrogenated castor oil
+moisturising effect,Hydrogenated lanolin
+moisturising effect,Isocetyi myristate
+moisturising effect,Lanolin linoleate
+moisturising effect,Lauryl cocoate
+moisturising effect,Lecithin
+moisturising effect,Mineral Oil
+moisturising effect,Myristyl myristate
+moisturising effect,Neatsfool oil
+moisturising effect,Octyldodecyl stearate
+moisturising effect,Oleyl linoleate
+moisturising effect,Palm kernal wax
+moisturising effect,Paraffin
+moisturising effect,Pentaerythntyl tetracocoate
+moisturising effect,Petroleum
+moisturising effect,Propylene glycol dioteate
+moisturising effect,Shark liver oil
+moisturising effect,Soybean lipid
+moisturising effect,Stearyl stearate
+moisturising effect,sodium PCA
+moisturising effect,Tall oil
+moisturising effect,Tocopherol
+moisturising effect,Trihexyldecyl citrate
+moisturising effect,Trfiisostearin
+moisturising effect,Vegetable oil
+moisturising effect,adenosine phosphate
+moisturising effect,almond protein
+moisturising effect,almondermin
+moisturising effect,amino acid
+moisturising effect,argan oil
+moisturising effect,arginine
+moisturising effect,Arlacel
+moisturising effect,astrocaryum butter
+moisturising effect,atelocollagen
+moisturising effect,bacaba pulp oil
+moisturising effect,balm of Gilead
+moisturising effect,bamboo extract
+moisturising effect,birch sap
+moisturising effect,black currant seed oil
+moisturising effect,butyl oleate 
+moisturising effect,carboxymethyl chitin
+moisturising effect,ceramides
+moisturising effect,ceresin
+moisturising effect,chitosan
+moisturising effect,chitosan ascorbate
+moisturising effect,choleth 24
+moisturising effect,chondroitin sulfate
+moisturising effect,cleavers extract
+moisturising effect,collagen amino acids
+moisturising effect,oltsfoot extract
+moisturising effect,egg protein
+moisturising effect,fibronectin
+moisturising effect,gallic acid
+moisturising effect,glycerin
+moisturising effect,glyceryl linoleate
+moisturising effect,glyceryl stearate
+moisturising effect,grapeseed oil
+moisturising effect,guar gum
+moisturising effect,hydrolyzed fibronectin
+moisturising effect,hydrolyzed wheat protein
+moisturising effect,Hydroviton
+moisturising effect,hydroxypropyltrimonium hydrolyzed wheat protein
+moisturising effect,keratin
+moisturising effect,sorbitol
+moisturising effect,lupine amino acids
+moisturising effect,macadamia nut oil
+moisturising effect,malva
+moisturising effect,melhydran
+moisturising effect,mucopolysaccharides
+moisturising effect,nalidone
+moisturising effect,octyl palmitat
+moisturising effect,panthenol
+moisturising effect,plant sterols
+moisturising effect,procollagen
+moisturising effect,propylene glycol
+moisturising effect,pyrrolidonic carbon acid
+moisturising effect,rose wax
+moisturising effect,saccharum officinarum
+moisturising effect,sesame amino acids
+moisturising effect,sodium lauroyl glutamate
+moisturising effect,squalane
+moisturising effect,southernwood extract
+moisturising effect,sphingolipids
+moisturising effect,spirulina extract
+moisturising effect,tocopherol linoleate
+moisturising effect,trehalose
+moisturising effect,Trichilia emetica seed butter
+moisturising effect,tropocollagen
+moisturising effect,tryptophan
+moisturising effect,Ulmus davidiana root extract
+moisturising effect,urea
+moisturising effect,vitamin E acetate
+moisturising effect,wheat bran extract
+moisturising effect,wheat protein
+moisturising effect,yeast extract
+moisturising effect,yomogi extract
+antioxidant,Alfalfa Extract
+antioxidant,Alpha Lipoic Acid
+antioxidant,Alpha Tocopheryl
+antioxidant,Amino Acid
+antioxidant,Angelica Sinensis Diels Extract
+antioxidant,Ascorbic Acid
+antioxidant,Astragalus Membranaceus(Fisch) Bunge Extract
+antioxidant,Avocado Oil
+antioxidant,Bio-Enzyme
+antioxidant,Biocatalys
+antioxidant,Biopeptide
+antioxidant,Biopeptides
+antioxidant,Borage Oil
+antioxidant,Bromclain
+antioxidant,CO-Q10
+antioxidant,calcium Pantothenate
+antioxidant,Camellia Sinensis Extract
+antioxidant,Carrot Oil
+antioxidant,carthamus Tinctorius L. Extract
+antioxidant,Centella Asiatica
+antioxidant,Chamomil Oil
+antioxidant,Coenzyme Q10 
+antioxidant,Collagen
+antioxidant,Comfrey Extract
+antioxidant,Cyanocobalamin
+antioxidant,Deoxyribonucleic Acid
+antioxidant,Disodium EDTA
+antioxidant,Edera Extract
+antioxidant,Ergocalciferol
+antioxidant,Ethylene
+antioxidant,Ferulic Acid
+antioxidant,Floraesters 10
+antioxidant,Ginkgo Biloba
+antioxidant,Grape Seed Extract
+antioxidant,Grapeseed Oil
+antioxidant,Horsetail Extract
+antioxidant,Hydrogenated Lecithin
+antioxidant,Iso-Flavones
+antioxidant,L-Ascorbic acid
+antioxidant,Lecithin
+antioxidant,Lipase
+antioxidant,Macadamia Nut Oil
+antioxidant,Mallow Extract
+antioxidant,Oligo Extract
+antioxidant,Olive Oil
+antioxidant,Papaya Enzyme
+antioxidant,Phenolic acid
+antioxidant,Phytoplacenta
+antioxidant,Placenta
+antioxidant,Placentol
+antioxidant,Polyglucuronic Acid
+antioxidant,Retinoids
+antioxidant,Rose Extract
+antioxidant,Sodium Ascorbate
+antioxidant,Squalene
+antioxidant,Soybean Protein
+antioxidant,Sterocare
+antioxidant,Sweet Almond Oil
+antioxidant,Tocopherol
+antioxidant,Tocopheryl Acetate
+antioxidant,Vitamin E Oil
+antioxidant,Wheat Protein
+antioxidant,_-Glucan
+antioxidant,açaí pulp oil
+antioxidant,Euterpe oleracea
+antioxidant,acerola extract
+antioxidant,acetyl glucosamine 
+antioxidant,acetyl hexapeptide-1
+antioxidant,acetyl hexapeptide-3 
+antioxidant,acetyl hexapeptide-8 
+antioxidant,n-acetyl-l-cysteine
+antioxidant,adenosine
+antioxidant,algae extract
+antioxidant,alpha hydroxy acid
+antioxidant,Aha
+antioxidant,lpha lipoic acid
+antioxidant,gamma amino beta hydroxy butric acid
+antioxidant,arbutin
+antioxidant,ascophyllum algae
+antioxidant,ascorbyl palmitate
+antioxidant,ascorbyl tetraisopalmitate
+antioxidant,astaxanthin
+antioxidant,benzoyl peroxide
+antioxidant,beta-carotene
+antioxidant,beta-glucan
+antioxidant,BHA
+antioxidant,butylated hydroxy anisole
+antioxidant,bilberry fruit extract
+antioxidant,bismuth oxychloride and mica and silica
+antioxidant,black cohosh extract
+antioxidant,blackthorn
+antioxidant,boldine
+antioxidant,Brazil nut oil
+antioxidant,buriti pulp oil
+antioxidant,Calcium pantetheine sulfonate
+antioxidant,Calophyllum inophyllum seed oil
+antioxidant,camelina sativa seed oil
+antioxidant,camellia oil
+antioxidant,carnosine
+antioxidant,carrot seed oil 
+antioxidant,chaparral extract
+antioxidant,chlorella vulgaris extract
+antioxidant,citric acid
+antioxidant,Coffea arabica fruit extract
+antioxidant,cordyceps sinensis extract
+antioxidant,fullerenes
+antioxidant,ginger root extract
+antioxidant,ginkgo biloba extract
+antioxidant,ginseng extract
+antioxidant,green tea extract
+antioxidant,kiwi fruit and powder
+antioxidant,lactobacillus/Solanum lycopersicum (tomato) fruit ferment 
+antioxidant,extract
+antioxidant,Lapsana cummunis extract
+antioxidant,luo han guo extract
+antioxidant,magnesium aspartate
+antioxidant,naseberry
+antioxidant,orizanol
+antioxidant,oxido reductases
+antioxidant,palmitoyl oligopeptide
+antioxidant,pequi fruit
+antioxidant,polyphenols
+antioxidant,propyl gallate
+antioxidant,raspberry seed oil
+antioxidant,red clover
+antioxidant,Red wine
+antioxidant,rhodochrosite extract
+antioxidant,rosemary extract
+antioxidant,rutin
+antioxidant,sea lettuce extract
+antioxidant,sodium bisulfite
+antioxidant,sodium sulfite
+antioxidant,sodium metabisulfite
+antioxidant,spinach
+antioxidant,superoxide dismutase
+antioxidant,tamanu oil
+antioxidant,tea leaf extract
+antioxidant,Terminalia ferdinandiana fruit extract
+antioxidant,tetrahexyldecyl ascorbate
+antioxidant,thioctic acid
+antioxidant,tocopherol_tocopherol acetate
+antioxidant,tocophersolan
+antioxidant,tocopheryl linoleate
+antioxidant,tocotrienols
+antioxidant,Trichilia emetica seed butter
+antioxidant,trisodium ascorbyl palmitate phosphate
+antioxidant,ubiquinone
+antioxidant,Uncaria gambir extract
+antioxidant,uncaria tomentosa extract
+antioxidant,vitamin A palmitate
+antioxidant,vitamin C
+antioxidant,vitamin E
+antioxidant,vitamin E acetate
+antioxidant,wheat germ oil
+antioxidant,white tea extract
+antioxidant,wild yam extract
+antioxidant,yerba mate extract
+antioxidant,zinc
+soothing,acetamide MEA 
+soothing,alchemilla extract
+soothing,allantoin
+soothing,allantoin acetyl methionine
+soothing,aloe extract
+soothing,aloe vera
+soothing,alteromonas ferment extract 
+soothing,althea extract
+soothing,aminobutyric acid
+soothing,anemone extract 
+soothing,angelica
+soothing,apple extract
+soothing,arachidonic acid
+soothing,arnica extract
+soothing,artichoke extract
+soothing,ascophyllum nodosum extract
+soothing,arnica oil
+soothing,avocado oil
+soothing,azulene
+soothing,balm mint extract
+soothing,baoab
+soothing,barberry extract
+soothing,barley oil
+soothing,bean oil
+soothing,bearberry extract
+soothing,18 beta-glycerrhentinic acid
+soothing,betony extract
+soothing,biotin
+soothing,birch bark extract
+soothing,birch leaf extract
+soothing,bisabolol
+soothing,bitter orange extract
+soothing,blessed thistle extract
+soothing,Boerhavia diffusa root extract
+soothing,hogweed
+soothing,horse purslane
+soothing,red spiderling
+soothing,tar vine
+soothing,borage extract
+soothing,borage seed oil
+soothing,brewing grain extracts
+soothing,cactus extract
+soothing,calamine
+soothing,calendula extract
+soothing,cascara sagrada extract
+soothing,chamomile extract 
+soothing,chamomile oil
+soothing,chaulmoogra oil
+soothing,lary sage oil
+soothing,Coleus barbatus extract
+soothing,colloidal oatmeal
+soothing,cupuaçu seed butter
+soothing,cypress oil
+soothing,dipotassium glycyrrhizinate
+soothing,echinacea
+soothing,elm bark
+soothing,Epilobium angustifolium extract
+soothing,ethyl arachidonate
+soothing,frankincense
+soothing,gotu kola extract
+soothing,grapeseed extract
+soothing,guar hydroxypropyltrimonium chloride
+soothing,honey
+soothing,honeysuckle extract
+soothing,horsetail extract
+soothing,huang qin extract
+soothing,hydrolyzed oat protein
+soothing,jasmine oil
+soothing,Kalanchoe daigremontiana leaf extract
+soothing,kola extract
+soothing,licorice extract
+soothing,linden extract
+soothing,mallow extract
+soothing,marigold extract
+soothing,marshmallow extract
+soothing,nonfat dry milk
+soothing,oak root
+soothing,oat
+soothing,orange flower oil
+soothing,orchid extract
+soothing,palmarosa oil
+soothing,pansy extract
+soothing,parsley oil
+soothing,peppermint oil
+soothing,phytosteryl canola glycerides
+soothing,plantain extract
+soothing,pregnenolone hemisuccinate
+soothing,primula extract
+soothing,pyridoxine tripalmitate
+soothing,red poppy extract
+soothing,resorcinol
+soothing,restharrow extract
+soothing,rice bran
+soothing,rice starch
+soothing,rose oil
+soothing,rosewater
+soothing,rough horsetail extract
+soothing,hypericum extract
+soothing,salicylamide
+soothing,Sanguisorba officinalis root extract
+soothing,savory extract
+soothing,seabuckthorn berry oil extract
+soothing,slippery elm extract
+soothing,stearyl glycyrrhetinate
+soothing,sucrose cocoate
+soothing,sweet almond oil
+soothing,thuja extract
+soothing,tilia
+soothing,valerian oil
+soothing,vanilla fruit extract
+soothing,veronica extract
+soothing,violet extract
+soothing,walnut extract
+soothing,water lily extract
+soothing,wheat protein
+soothing,white lily bulb extract
+soothing,witch hazel extract
+soothing,ylang-ylang oil
+soothing,yomogi extract
+soothing,zinc oxide
+irritancy,Alcohol
+irritancy,acetone
+irritancy,aluminum acetate solution
+irritancy,aluminum hydroxide
+irritancy,aluminum stearate
+irritancy,armoise oil
+irritancy,asebiol
+irritancy,balm mint oil
+irritancy,beet powder
+irritancy,benzalkonium chloride
+irritancy,bitter almond extract
+irritancy,"2-bromo-2 nitro-1,3 propane diol"
+irritancy,bronopol
+irritancy,butyl paraben
+irritancy,calcium alginate
+irritancy,carmine 
+irritancy,carotene
+irritancy,celandine
+irritancy,chlorhexidine
+irritancy,chlorhexidine dihydrochloride
+irritancy,chlorophenesin
+irritancy,clematis
+irritancy,copper chlorophyll
+irritancy,DMDM hydantoin
+irritancy,ethyl ether
+irritancy,ethyl paraben
+irritancy,ethylene glycol monomethyl ether
+irritancy,hydroxyisohexyl 3-cyclohexene carboxaldehyde
+irritancy,linolenic acid
+irritancy,mercurials
+irritancy,methanione
+irritancy,PABA 
+irritancy,phosphoric acid
+irritancy,pyruvic acid
+irritancy,quaternium-15
+irritancy,quince seed
+irritancy,sodium dehydroacetate
+irritancy,sodium hydroxide
+irritancy,sodium polyphosphate
+irritancy,sodium sulfate
+irritancy,sodium trideceth sulfate
+irritancy,sorbic acid
+irritancy,ultramarine blue
+irritancy,yeast
+whitening,Lactic Acid
+whitening,Angelica
+whitening,Apple Extract
+whitening,Apricot Bead 
+whitening,Arbutin
+whitening,Ascorbic Acid
+whitening,Ascorbyl Glucoside
+whitening,Ascorbyl Pamitate
+whitening,Ascorbyl Stearate
+whitening,Ascorbyl Tetraisopalmitate
+whitening,Azelaic Acid
+whitening,bletilla Striata Reichenbach Extract
+whitening,Citrus Extract
+whitening,coix Seed
+whitening,Cucumber Extract
+whitening,Elder
+whitening,Glycolic Acid
+whitening,Glycyrrhetinic Acid
+whitening,Hydroquinone
+whitening,Iniferine
+whitening,Kohakuhi
+whitening,Kojic Acid
+whitening,L-Ascorbic Acid Phosphate Magnesiom Salt N-nydrate
+whitening,Lemon Extract
+whitening,Magnesium Ascorbylphosphate
+whitening,Malic Acid
+whitening,Melawhite
+whitening,Milk Protein
+whitening,Mulberry Extract
+whitening,Pear Power
+whitening,Phylloquinone
+whitening,Plantain
+whitening,Radix Angelicae Dahuricae
+whitening,Rose Essence Oil
+whitening,Rose Extract
+whitening,Tartaric Acid
+whitening,Titanium Dioxide
+whitening,TiO2
+whitening,Vitamin A Acid
+whitening,Vitamin C
+whitening,Vitamin K
+whitening,Yellow Gentian Extract
+whitening,Yogurt
+whitening,acetyl hexapeptide-1
+whitening,alpha tocopheryl ferulate
+whitening,l-ascorbic acid ethylene oxide
+whitening,ascorbyl linoleate
+whitening,bearberry extract
+whitening,Coffea arabica fruit extract
+whitening,gentian extract
+whitening,5-hydroxy-2-hydroxymethyl-gamma-pyridone
+whitening,8-hydroxy stilbenes
+whitening,methyl gentisate
+whitening,mitracarpus
+whitening,nutmeg
+whitening,phytic acid
+whitening,ramulus mori extract
+whitening,rhubarb extract
+whitening,tyramine
+whitening,vitamin C ester
+whitening,yeast
+viscosity,Bees Wax
+viscosity,Bentonite
+viscosity,Benzoyl Alcohol
+viscosity,Butyl Stearate
+viscosity,C12-15 Alkyl Benzoate
+viscosity,Candelilla Wax 
+viscosity,Cetyl Acetate
+viscosity,Cetyl Dimethicone
+viscosity,Hectorite
+viscosity,Hydrogenated Soy Glyceride
+viscosity,Isohexadecane
+viscosity,Isostearic 
+viscosity,Kaolin
+viscosity,Laniline Alcohol
+viscosity,Magnesium Aluminum Silicate
+viscosity,Mica
+viscosity,Microcrystalline Wax
+viscosity,Octyldodecanol
+viscosity,Ozokerite
+viscosity,palmitic Acid
+viscosity,Paraffin
+viscosity,Petrolatum
+viscosity,Safflower Oil
+viscosity,Sericite
+viscosity,Sodium Citrate
+viscosity,Tween
+viscosity,Vaseline
+viscosity,Wax Esters
+viscosity,Waxes
+viscosity,acryloyldimethyl taurate copolymer
+viscosity,sodium acryloyldimethyl taurate copolymer
+viscosity,C10–30 alkyl acrylate crosspolymer
+viscosity,acrylates alkyl acrylate crosspolymer
+viscosity,acrylonitrogens copolymer
+viscosity,acrylic acid
+viscosity,acrylic acid polymers
+viscosity,algin
+viscosity,alginate
+viscosity,alginic acid
+viscosity,almond flour
+viscosity,aluminum oxide
+viscosity,ammonium acryloyl dimethyl taurate
+viscosity,ammonium chloride 
+viscosity,ammonium polyacryldimethyltauramide
+viscosity,arachidyl glucoside
+viscosity,behenyl alcohol
+viscosity,betaine
+viscosity,"1,3 butylene glycol"
+viscosity,butylphenyl methlypropional
+viscosity,carbomer
+viscosity,Carbopol
+viscosity,carboxymethyl cellulose
+viscosity,carboxypolymethylene
+viscosity,carboxyvinyl polymer
+viscosity,carnauba wax
+viscosity,carnitine
+viscosity,carrageen extract
+viscosity,cellulose
+viscosity,cera alba
+viscosity,cocamide DEA
+viscosity,cocamidopropylamine oxide
+viscosity,coconut alcohol
+viscosity,Corallina officinalis
+viscosity,corn meal
+viscosity,corn starch
+viscosity,ethylene acrylate copolymer
+viscosity,linoleamide DEA
+viscosity,neopentyl glycol dicaprate
+viscosity,octadecene
+viscosity,oleyl alcohol
+viscosity,pectin
+viscosity,PEG-7M
+viscosity,polyalkoxy ester
+viscosity,polybutene
+viscosity,polyether-1
+viscosity,polyethylene
+viscosity,quaternium-18 bentonite
+viscosity,quince seed
+viscosity,sclerotium gum
+viscosity,silica
+viscosity,sodium acrylate
+viscosity,sodium polyacrylate starch
+viscosity,stearamide DEA
+viscosity,stearic acid
+viscosity,tapioca starch
+viscosity,TEA-carbomer
+viscosity,tourmaline
+viscosity,triheptanoin
+viscosity,vegetable starch
+cleanliness,Glycolic Acid
+cleanliness,Lactic Acid
+cleanliness,Apple Extract
+cleanliness,Apricot Bead 
+cleanliness,Babassuamidopropylamine
+cleanliness,Bay Extract 
+cleanliness,Bearberry Extract
+cleanliness,Bentonite
+cleanliness,Bergamot Mint Extract
+cleanliness,Betula Extract
+cleanliness,Burdock Root Extract
+cleanliness,Chamomile Extract 
+cleanliness,Citron 
+cleanliness,Citrus Extract
+cleanliness,Cocamidopropyl Hydroxy Sultane
+cleanliness,Cocoamide DEA
+cleanliness,Coconut Diethanolamide
+cleanliness,Cress
+cleanliness,disodium Laureth Sulfosuccinate
+cleanliness,Erucamidopropyl Hydroxy Sultane
+cleanliness,Fatty Alcohol 
+cleanliness,Fennel 
+cleanliness,Homosalate
+cleanliness,Lauryl Betaine
+cleanliness,Lauryl Diethanolamide
+cleanliness,Lime Fruit Extract
+cleanliness,Monoethanolamine Lauryl Sulfate
+cleanliness,Musk Extract
+cleanliness,Peppermint Extract
+cleanliness,Polyoxyethylene Lauryl Ether
+cleanliness,Polyoxyethylene
+cleanliness,Retinoic Acid
+cleanliness,Sage Extract
+cleanliness,Salicylic Acid
+cleanliness,Sodium Cocoyl Sarcosinate
+cleanliness,Surfactant
+cleanliness,Tea Tree Essential Oil
+cleanliness,Tretinoin
+cleanliness,Triethanolamine (TEA) Lauryl Sulfate
+cleanliness,Vitamin A Acid
+cleanliness,Witch Hazel Extract
+cleanliness,Yeast
+cleanliness,Ylang-Ylang Essential Oil
+cleanliness,acrylates copolymer
+cleanliness,acrylates
+cleanliness,acrylamide copolymer
+cleanliness,almond flour
+cleanliness,ammonium cocoyl isethionate
+cleanliness,ammonium glycolate 
+cleanliness,ammonium laureth sulfate
+cleanliness,ammonium lauryl sulfate
+cleanliness,apricot powder
+cleanliness,avens extract
+cleanliness,barium sulfate
+cleanliness,betaine
+cleanliness,cocamidopropyl betaine
+cleanliness,cocoglucoside
+cleanliness,cocoyl sarcosine
+cleanliness,disodiumcocoyl glutamate
+cleanliness,disodium lauriminodipropionate
+cleanliness,disodium lauryl sulfosuccinate
+cleanliness,EDTA
+cleanliness,fennel extract
+cleanliness,hydrogen peroxide
+cleanliness,laureth-3
+cleanliness,laureth-7
+cleanliness,laureth-12
+cleanliness,lauric acid
+cleanliness,lauroamphocarboxyglycinate
+cleanliness,lauroamphodiacetate
+cleanliness,linoleic acid
+cleanliness,magnesium laureth sulfate
+cleanliness,myristic acid
+cleanliness,myristyl ether propionate
+cleanliness,PEG-120 methyl glucose dioleate
+cleanliness,PEG-150 distearate
+cleanliness,pomegranate extract
+cleanliness,potassium myristate
+cleanliness,ricinoleth
+cleanliness,sodium cocoate
+cleanliness,sodium cocoyl glutamate
+cleanliness,sodium cocoyl isethionate
+cleanliness,sodium cocoylsarcosinate
+cleanliness,sodium dihydroxycetyl phosphate
+cleanliness,sodium laureth sulfate
+cleanliness,sodium lauroyl oat amino acids
+cleanliness,sodium lauryl sarcosinate
+cleanliness,sodium methylcocoyl taurate
+cleanliness,sodium oleate
+cleanliness,sodium C14–16 olefin sulfonate
+cleanliness,sodium stearoyl glutamate
+cleanliness,thyme oil
+cleanliness,watercress extract
+fragrance,amyl cinnamal
+fragrance,anise extract
+fragrance,r-anisic acid
+fragrance,areca nut extract
+fragrance,bay leaf oil 
+fragrance,benzoin
+fragrance,benzyl salicylate
+fragrance,bergamot oil
+fragrance,bois de rose oil
+fragrance,borneol
+fragrance,butylphenyl methylpropional
+fragrance,cinnamon oil
+fragrance,cinnamyl alcohol
+fragrance,citral
+fragrance,citronella
+fragrance,ethoxydiglycol
+fragrance,eucalyptus oil
+fragrance,eugenol
+fragrance,farnesyl acetate
+fragrance,fir needle oil
+fragrance,flowers extract
+fragrance,fucus algae
+fragrance,grapefruit oil
+fragrance,hyssop oil
+fragrance,jasmine extract
+fragrance,juniper extract
+fragrance,lavender oil
+fragrance,lime blossom extract
+fragrance,limonene
+fragrance,linalool
+fragrance,menthol
+fragrance,menthol methyl lactate
+fragrance,menthyl lactate
+fragrance,Michelia alba leaf oil
+fragrance,mugwort
+fragrance,narcissus
+fragrance,nerol oil
+fragrance,oakmoss empuree
+fragrance,orange flower oil
+fragrance,petitgrain oil
+fragrance,raspberry concentrate
+fragrance,roman chamomile oil
+fragrance,rose extract
+fragrance,rosemary oil
+fragrance,rosewood oil
+fragrance,sarriette oil
+fragrance,sclareolide
+fragrance,spearmint oil
+fragrance,tangerine oil
+fragrance,ursolic acid
+fragrance,white willow extract
+fragrance,wild basil
+fragrance,fragrance
+fragrance,perfume
